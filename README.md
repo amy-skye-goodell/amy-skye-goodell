@@ -1,8 +1,6 @@
-# Amy Skye Studios 
+# Amy (Brian) Goodell 
 
 **Senior Data Engineering | Analytics Engineering | Data Quality | Cloud, Lakehouse & AI-Assisted Modernization**
-
-Amy Skye Studios is the independent data-engineering, analytics-engineering, and technical-learning portfolio of **Amy (Brian) Goodell**.
 
 I build practical, documented projects that extend more than nine years of enterprise data-engineering experience into modern cloud and lakehouse platforms. My work combines ETL/ELT, SQL, Python, data quality, reconciliation, workflow automation, governance, lineage, source-to-target mapping, and production support with AWS, Snowflake, Databricks, PySpark, dbt, Airflow, Power BI, Git, GitHub, and AI/LLM-assisted engineering.
 
@@ -14,7 +12,7 @@ This portfolio focuses on building reliable and explainable data workflows—fro
 
 ### Databricks Lakehouse & Access Modernization Lab
 
-[View the complete project](https://github.com/amyskyestudios/databricks-gleif-lakehouse)
+[View the complete project](https://github.com/triangledataworks/databricks-gleif-lakehouse)
 
 A completed portfolio lab containing:
 
@@ -86,7 +84,7 @@ validation records, the Power BI report, and the final dashboard image.
 
 ### AWS Data Engineering Lab
 
-[View the AWS project](https://github.com/amyskyestudios/aws-data-engineering-lab)
+[View the AWS project](https://github.com/triangledataworks/aws-data-engineering-lab)
 
 Hands-on AWS data-engineering work focused on cloud services, ingestion,
 storage, transformation, orchestration, and practical implementation notes.
@@ -242,7 +240,7 @@ Current areas of continued development include:
 
 ## Project Links
 
-- [Databricks Lakehouse & Access Modernization Lab](https://github.com/amyskyestudios/databricks-gleif-lakehouse)
-- [AWS Data Engineering Lab](https://github.com/amyskyestudios/aws-data-engineering-lab)
+- [Databricks Lakehouse & Access Modernization Lab](https://github.com/triangledataworks/databricks-gleif-lakehouse)
+- [AWS Data Engineering Lab](https://github.com/triangledataworks/aws-data-engineering-lab)
 
 _Last updated: July 2026_
