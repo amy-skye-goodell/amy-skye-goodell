@@ -1,4 +1,4 @@
-# Amy (Brian) Goodell 
+# 🦋 Amy Skye Goodell 
 
 **Senior Data Engineering | Analytics Engineering | Data Quality | Cloud, Lakehouse & AI-Assisted Modernization**
 
