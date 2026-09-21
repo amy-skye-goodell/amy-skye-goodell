@@ -12,7 +12,7 @@ This portfolio focuses on building reliable and explainable data workflows—fro
 
 ### Databricks Lakehouse & Access Modernization Lab
 
-[View the complete project](https://github.com/triangledataworks/databricks-gleif-lakehouse)
+[View the complete project](https://github.com/amyskyestudios/databricks-gleif-lakehouse-modernization-lab)
 
 A completed portfolio lab containing:
 
@@ -84,7 +84,7 @@ validation records, the Power BI report, and the final dashboard image.
 
 ### AWS Data Engineering Lab
 
-[View the AWS project](https://github.com/triangledataworks/aws-data-engineering-lab)
+[View the AWS project](https://github.com/amyskyestudios/aws-data-engineering-lab)
 
 Hands-on AWS data-engineering work focused on cloud services, ingestion,
 storage, transformation, orchestration, and practical implementation notes.
@@ -240,7 +240,7 @@ Current areas of continued development include:
 
 ## Project Links
 
-- [Databricks Lakehouse & Access Modernization Lab](https://github.com/triangledataworks/databricks-gleif-lakehouse)
-- [AWS Data Engineering Lab](https://github.com/triangledataworks/aws-data-engineering-lab)
+- [Databricks Lakehouse & Access Modernization Lab](https://github.com/amyskyestudios/databricks-gleif-lakehouse-modernization-lab)
+- [AWS Data Engineering Lab](https://github.com/amyskyestudios/aws-data-engineering-lab)
 
-_Last updated: July 2026_
+_Last updated: September 2026_
